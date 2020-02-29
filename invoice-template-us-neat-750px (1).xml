@@ -1,0 +1,38 @@
+<annotation>
+	<folder>invoice</folder>
+	<filename>invoice-template-us-neat-750px (1).jpg</filename>
+	<path>C:\Users\niuniu\Desktop\object_detection\invoice\invoice-template-us-neat-750px (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amount</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>619</xmin>
+			<ymin>537</ymin>
+			<xmax>704</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>company</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>121</ymin>
+			<xmax>174</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>
